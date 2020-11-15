@@ -1,12 +1,8 @@
 {
-  "name": "milliseconds",
+  "name": "milliseconds-converter",
   "description": "Insanely lightweight module for converting times to milliseconds.",
-  "version": "1.0.3",
-  "author": "Henrik Joreteg",
-  "bugs": {
-    "url": "https://github.com/henrikjoreteg/milliseconds/issues"
-  },
-  "homepage": "https://github.com/henrikjoreteg/milliseconds",
+  "version": "1.0.0",
+  "author": "JediThePro",
   "keywords": [
     "time",
     "conversion",
@@ -16,7 +12,7 @@
   "main": "milliseconds.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/henrikjoreteg/milliseconds"
+    "url": "git://github.com/JediThePro/milliseconds"
   },
   "scripts": {
     "test": "node test.js"
